@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Predicting-Car-Prices
+# Machine-Learning-Project-Predicting-House-Prices
 机器学习项目：研究美国爱荷华州艾姆斯市2006年至2010年的住房数据，来建立预测模型
 方法：
   I.通过特征工程来
